@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharun</h1>
-<h3 align="center">A Grad Student @ Columbia University</h3>
+<h3 align="center">Grad Student @ Columbia University</h3>
 
 
 - 🔭 I’m currently working on [ARM TrustZone Password Manager](https://github.com/coms6424-s24/TZPasswordManager)
